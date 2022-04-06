@@ -14,7 +14,7 @@ Su desafío es construir este componente de tarjetas Pop-ups y lograr que se par
 
 ## Deployed
 
-[Vercel](https://nucba-project-leocoronel.vercel.app)
+[Vercel](https://pop-ups-challenge.vercel.app)
 
 
 ## Agradecimientos
